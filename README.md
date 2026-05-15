@@ -23,7 +23,7 @@ Fonts should be placed in the creatively-named subfolder "fonts".  Two permissiv
 
 ### Usage
 
-    python TermTitle.py <script.txt> <output.mp4> [options]
+    python termtitle.py <script.txt> <output.mp4> [options]
 
 
 ### Supported Script Commands
