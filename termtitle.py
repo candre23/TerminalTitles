@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-TermTitle.py
+termtitle.py
 
 Generate a retro terminal-style intro video from a text script.
 
