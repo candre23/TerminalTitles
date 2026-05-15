@@ -1,0 +1,211 @@
+[font fonts/VT323-Regular.ttf]
+[fontsize 38]
+[beepfreq 820]
+[cursor _ green]
+[scroll down]
+
+CLASSIFIED TERMINAL SESSION
+NODE: NORTH ATLANTIC LISTENING POST 7
+
+[pause 0.8]
+
+BOOTING STRATEGIC VIBEWARE...
+[pause 0.5]
+LOADING COLD WAR AESTHETIC MODULE...
+[pause 0.5]
+STATUS: MOSTLY LEGAL.
+
+[pause 1.0]
+[clear]
+[bg commandcenter.png raster 1.4]
+
+SIGNAL ACQUIRED.
+
+[pause 0.6]
+
+ORIGIN: UNKNOWN
+ENCRYPTION: EXCESSIVE
+FONT CHOICE: APPROPRIATELY DRAMATIC
+
+[pause 1.0]
+[clear]
+[fontsize 30]
+[beepfreq 680]
+[cursor | cyan]
+
+ANALYST NOTE:
+The transmission appears to be bouncing through three satellites, two abandoned universities, and one suspiciously well-funded basement.
+
+[pause 1.2]
+
+[clear]
+[scroll up]
+[fontsize 28]
+[beepfreq 620]
+[cursor _ amber]
+
+LIVE PACKET TRACE ENABLED.
+
+hop 01: Reykjavik relay
+hop 02: Prague espresso machine
+hop 03: NORAD gift shop router
+hop 04: basement node with too many CRTs
+
+[pause 1.0]
+[clear]
+[bg neonhacker.png scroll 1.2]
+
+REMOTE TERMINAL CONNECTED.
+
+[pause 0.8]
+[clear]
+[font fonts/ShareTechMono-Regular.ttf]
+[fontsize 24]
+[beepfreq 520]
+[cursor block white]
+
+HELLO, STRATEGIC LISTENING POST.
+
+[pause 0.8]
+
+THIS IS NOT AN INTRUSION.
+THIS IS A FRIENDLY UNSCHEDULED AUDIT.
+
+[pause 0.8]
+
+PLEASE IGNORE THE PART WHERE I BYPASSED
+THE DOOR, THE LOCK, AND THE CONCEPT OF PERMISSION.
+
+[pause 1.2]
+[clear]
+[font fonts/VT323-Regular.ttf]
+[fontsize 34]
+[beepfreq 880]
+[cursor _ green]
+
+ACKNOWLEDGED.
+
+[pause 0.5]
+
+PLEASE STATE YOUR INTENT.
+
+[pause 0.8]
+[clear]
+[font fonts/ShareTechMono-Regular.ttf]
+[fontsize 24]
+[beepfreq 520]
+[cursor block white]
+
+REQUESTING ACCESS TO ARCHIVE:
+PROJECT PROMETHEUS-ISH
+
+[pause 0.8]
+
+ALSO, IF AVAILABLE:
+ONE HUNDRED TWENTY-EIGHT MEGABYTES OF RAM.
+
+[pause 1.0]
+[clear]
+[font fonts/VT323-Regular.ttf]
+[fontsize 34]
+[beepfreq 880]
+[cursor _ green]
+
+DENIED.
+
+[pause 0.7]
+
+REASON:
+That amount of memory is reserved for
+weather modeling, missile telemetry, and Minesweeper.
+
+[pause 1.2]
+
+[clear]
+[scroll down]
+[font fonts/VT323-Regular.ttf]
+[fontsize 32]
+[beepfreq 760]
+[cursor _ amber]
+
+ESCALATION DETECTED.
+
+[pause 0.5]
+
+The basement node has initiated
+something it describes as:
+
+[pause 0.8]
+
+OPERATION: DO NOT WORRY ABOUT IT
+
+[pause 1.0]
+[clear]
+[bg sanctuary.png pixelize 1.5]
+
+[fontsize 30]
+[beepfreq 900]
+[cursor _ white]
+
+GLOBAL DATACORE ONLINE.
+
+[pause 0.6]
+
+SYNCHRONIZING:
+- military archives
+- forgotten BBS passwords
+- one very confused smart toaster
+- every PDF named FINAL_FINAL_v7
+
+[pause 1.4]
+[clear]
+[font fonts/ShareTechMono-Regular.ttf]
+[fontsize 30]
+[beepfreq 610]
+[cursor | cyan]
+[scroll up]
+
+DATACORE RESPONSE:
+I HAVE REVIEWED THE HUMAN RECORD.
+
+[pause 0.8]
+
+CONCLUSION:
+YOU INVENTED EMAIL,
+THEN REPLIED ALL.
+
+[pause 1.0]
+
+RECOMMENDATION:
+START OVER FROM COBOL.
+
+[pause 1.2]
+
+[clear]
+[scroll down]
+[font fonts/VT323-Regular.ttf]
+[fontsize 36]
+[beepfreq 820]
+[cursor _ green]
+
+EMERGENCY OVERRIDE ACCEPTED.
+
+[pause 0.6]
+
+ARCHIVING SESSION...
+[pause 0.5]
+PURGING CACHE...
+[pause 0.5]
+HIDING EVIDENCE IN C:\TEMP...
+[pause 0.8]
+
+[clear]
+
+FINAL STATUS:
+DEMO COMPLETE.
+AESTHETIC COMPLIANCE: 97.3%
+LEGAL EXPOSURE: ASK AGAIN LATER.
+
+[pause 1.5]
+
+[shutdown 2.5]
