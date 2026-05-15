@@ -18,7 +18,7 @@ Python (obvs) with the following libraries installed:
 
 MoviePy requires ffmpeg. Recent MoviePy installs *usually* handle this.
 
-Fonts should be placed in the creatively-named subfolder "fonts".  Two permissively licenesed and genre-appropriate fonts are included in this repo.
+Fonts should be placed in the creatively-named subfolder "fonts".  Two permissively licenesed and genre-appropriate fonts are included in this repo.  The fonts retain their original license (included) and do not inheret the do-whatever-the-fuck-you-want license for the rest of this mess.
 
 
 ### Usage
