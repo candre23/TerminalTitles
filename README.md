@@ -67,7 +67,7 @@ Clear text, hide cursor, collapse the screen to a horizontal white line, then fa
 
 **Supported color names:** green, brightgreen, white, amber, orange, red, blue, cyan, magenta, purple, yellow, black   
 
-**Supported transition styles:** pixelate, raster, scroll
+**Supported transition styles:** cut, pixelate, raster, scroll
 
 
 ### Command Line Args
