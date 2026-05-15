@@ -18,6 +18,8 @@ Python (obvs) with the following libraries installed:
 
 MoviePy requires ffmpeg. Recent MoviePy installs *usually* handle this.
 
+Fonts should be placed in the creatively-named subfolder "fonts".  Two permissively licenesed and genre-appropriate fonts are included in this repo.
+
 
 ### Usage
 
