@@ -7,6 +7,7 @@ straight out of the title sequence for a 1987 sci-fi thriller.
 
 https://github.com/user-attachments/assets/a0f27d8a-fb99-43da-91cd-31b6e165bdd2
 
+-----
 
 
 ### Requirements
@@ -20,14 +21,15 @@ MoviePy requires ffmpeg. Recent MoviePy installs *usually* handle this.
 
 Fonts should be placed in the creatively-named subfolder "fonts".  Two permissively licenesed and genre-appropriate fonts are included in this repo.  The fonts retain their original license (included) and do not inheret the do-whatever-the-fuck-you-want license for the rest of this mess.
 
+-----
 
 ### Usage
 
     python termtitle.py <script.txt> <output.mp4> [options]
 
+-----
 
 ### Supported Script Commands
-See demo.txt for examples in action.  This script generated the demo video above.
 
     [bg <file or color> <transition> <duration>] 
 Set or change the background. An image file or solid color must be specified.  A transition type and duration in seconds may optionally be specified.Example: [bg image.jpg raster 2.5]   
@@ -69,6 +71,9 @@ Clear text, hide cursor, collapse the screen to a horizontal white line, then fa
 
 **Supported transition styles:** cut, pixelate, raster, scroll
 
+**See demo.txt for examples in action.  This script generated the demo video above.**
+
+-----
 
 ### Command Line Args
 
@@ -93,7 +98,7 @@ Clear text, hide cursor, collapse the screen to a horizontal white line, then fa
     --no-flicker                    Disable subtle CRT brightness flicker.
     --preview-frames                Save first/middle/last preview frames as PNGs.
 
-
+-----
 
 ### Disclaimer
 
